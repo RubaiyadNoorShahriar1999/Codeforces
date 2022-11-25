@@ -1,0 +1,15 @@
+D:\C-Sharp-Personal-Practice\Assignment 2\problem617A\bin\Debug\net6.0\problem617A.exe
+D:\C-Sharp-Personal-Practice\Assignment 2\problem617A\bin\Debug\net6.0\problem617A.deps.json
+D:\C-Sharp-Personal-Practice\Assignment 2\problem617A\bin\Debug\net6.0\problem617A.runtimeconfig.json
+D:\C-Sharp-Personal-Practice\Assignment 2\problem617A\bin\Debug\net6.0\problem617A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem617A\bin\Debug\net6.0\problem617A.pdb
+D:\C-Sharp-Personal-Practice\Assignment 2\problem617A\obj\Debug\net6.0\problem617A.csproj.AssemblyReference.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem617A\obj\Debug\net6.0\problem617A.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp-Personal-Practice\Assignment 2\problem617A\obj\Debug\net6.0\problem617A.AssemblyInfoInputs.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem617A\obj\Debug\net6.0\problem617A.AssemblyInfo.cs
+D:\C-Sharp-Personal-Practice\Assignment 2\problem617A\obj\Debug\net6.0\problem617A.csproj.CoreCompileInputs.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem617A\obj\Debug\net6.0\problem617A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem617A\obj\Debug\net6.0\refint\problem617A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem617A\obj\Debug\net6.0\problem617A.pdb
+D:\C-Sharp-Personal-Practice\Assignment 2\problem617A\obj\Debug\net6.0\problem617A.genruntimeconfig.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem617A\obj\Debug\net6.0\ref\problem617A.dll
