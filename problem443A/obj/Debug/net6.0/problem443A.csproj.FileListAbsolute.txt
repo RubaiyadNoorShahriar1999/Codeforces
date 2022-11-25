@@ -1,0 +1,15 @@
+D:\C-Sharp-Personal-Practice\Assignment 2\problem443A\bin\Debug\net6.0\problem443A.exe
+D:\C-Sharp-Personal-Practice\Assignment 2\problem443A\bin\Debug\net6.0\problem443A.deps.json
+D:\C-Sharp-Personal-Practice\Assignment 2\problem443A\bin\Debug\net6.0\problem443A.runtimeconfig.json
+D:\C-Sharp-Personal-Practice\Assignment 2\problem443A\bin\Debug\net6.0\problem443A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem443A\bin\Debug\net6.0\problem443A.pdb
+D:\C-Sharp-Personal-Practice\Assignment 2\problem443A\obj\Debug\net6.0\problem443A.csproj.AssemblyReference.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem443A\obj\Debug\net6.0\problem443A.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp-Personal-Practice\Assignment 2\problem443A\obj\Debug\net6.0\problem443A.AssemblyInfoInputs.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem443A\obj\Debug\net6.0\problem443A.AssemblyInfo.cs
+D:\C-Sharp-Personal-Practice\Assignment 2\problem443A\obj\Debug\net6.0\problem443A.csproj.CoreCompileInputs.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem443A\obj\Debug\net6.0\problem443A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem443A\obj\Debug\net6.0\refint\problem443A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem443A\obj\Debug\net6.0\problem443A.pdb
+D:\C-Sharp-Personal-Practice\Assignment 2\problem443A\obj\Debug\net6.0\problem443A.genruntimeconfig.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem443A\obj\Debug\net6.0\ref\problem443A.dll
