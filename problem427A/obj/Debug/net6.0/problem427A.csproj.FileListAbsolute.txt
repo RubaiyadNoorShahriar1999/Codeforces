@@ -1,0 +1,15 @@
+D:\C-Sharp-Personal-Practice\Assignment 2\problem427A\bin\Debug\net6.0\problem427A.exe
+D:\C-Sharp-Personal-Practice\Assignment 2\problem427A\bin\Debug\net6.0\problem427A.deps.json
+D:\C-Sharp-Personal-Practice\Assignment 2\problem427A\bin\Debug\net6.0\problem427A.runtimeconfig.json
+D:\C-Sharp-Personal-Practice\Assignment 2\problem427A\bin\Debug\net6.0\problem427A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem427A\bin\Debug\net6.0\problem427A.pdb
+D:\C-Sharp-Personal-Practice\Assignment 2\problem427A\obj\Debug\net6.0\problem427A.csproj.AssemblyReference.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem427A\obj\Debug\net6.0\problem427A.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp-Personal-Practice\Assignment 2\problem427A\obj\Debug\net6.0\problem427A.AssemblyInfoInputs.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem427A\obj\Debug\net6.0\problem427A.AssemblyInfo.cs
+D:\C-Sharp-Personal-Practice\Assignment 2\problem427A\obj\Debug\net6.0\problem427A.csproj.CoreCompileInputs.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem427A\obj\Debug\net6.0\problem427A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem427A\obj\Debug\net6.0\refint\problem427A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem427A\obj\Debug\net6.0\problem427A.pdb
+D:\C-Sharp-Personal-Practice\Assignment 2\problem427A\obj\Debug\net6.0\problem427A.genruntimeconfig.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem427A\obj\Debug\net6.0\ref\problem427A.dll
