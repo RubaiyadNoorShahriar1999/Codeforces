@@ -1,0 +1,15 @@
+D:\C-Sharp-Personal-Practice\Assignment 2\problem469A\bin\Debug\net6.0\problem469A.exe
+D:\C-Sharp-Personal-Practice\Assignment 2\problem469A\bin\Debug\net6.0\problem469A.deps.json
+D:\C-Sharp-Personal-Practice\Assignment 2\problem469A\bin\Debug\net6.0\problem469A.runtimeconfig.json
+D:\C-Sharp-Personal-Practice\Assignment 2\problem469A\bin\Debug\net6.0\problem469A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem469A\bin\Debug\net6.0\problem469A.pdb
+D:\C-Sharp-Personal-Practice\Assignment 2\problem469A\obj\Debug\net6.0\problem469A.csproj.AssemblyReference.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem469A\obj\Debug\net6.0\problem469A.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp-Personal-Practice\Assignment 2\problem469A\obj\Debug\net6.0\problem469A.AssemblyInfoInputs.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem469A\obj\Debug\net6.0\problem469A.AssemblyInfo.cs
+D:\C-Sharp-Personal-Practice\Assignment 2\problem469A\obj\Debug\net6.0\problem469A.csproj.CoreCompileInputs.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem469A\obj\Debug\net6.0\problem469A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem469A\obj\Debug\net6.0\refint\problem469A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem469A\obj\Debug\net6.0\problem469A.pdb
+D:\C-Sharp-Personal-Practice\Assignment 2\problem469A\obj\Debug\net6.0\problem469A.genruntimeconfig.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem469A\obj\Debug\net6.0\ref\problem469A.dll
