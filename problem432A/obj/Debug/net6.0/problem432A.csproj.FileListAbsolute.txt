@@ -1,0 +1,15 @@
+D:\C-Sharp-Personal-Practice\Assignment 2\problem432A\bin\Debug\net6.0\problem432A.exe
+D:\C-Sharp-Personal-Practice\Assignment 2\problem432A\bin\Debug\net6.0\problem432A.deps.json
+D:\C-Sharp-Personal-Practice\Assignment 2\problem432A\bin\Debug\net6.0\problem432A.runtimeconfig.json
+D:\C-Sharp-Personal-Practice\Assignment 2\problem432A\bin\Debug\net6.0\problem432A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem432A\bin\Debug\net6.0\problem432A.pdb
+D:\C-Sharp-Personal-Practice\Assignment 2\problem432A\obj\Debug\net6.0\problem432A.csproj.AssemblyReference.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem432A\obj\Debug\net6.0\problem432A.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp-Personal-Practice\Assignment 2\problem432A\obj\Debug\net6.0\problem432A.AssemblyInfoInputs.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem432A\obj\Debug\net6.0\problem432A.AssemblyInfo.cs
+D:\C-Sharp-Personal-Practice\Assignment 2\problem432A\obj\Debug\net6.0\problem432A.csproj.CoreCompileInputs.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem432A\obj\Debug\net6.0\problem432A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem432A\obj\Debug\net6.0\refint\problem432A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem432A\obj\Debug\net6.0\problem432A.pdb
+D:\C-Sharp-Personal-Practice\Assignment 2\problem432A\obj\Debug\net6.0\problem432A.genruntimeconfig.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem432A\obj\Debug\net6.0\ref\problem432A.dll
