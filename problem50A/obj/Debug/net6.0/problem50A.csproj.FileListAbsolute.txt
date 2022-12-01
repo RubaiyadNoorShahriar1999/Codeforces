@@ -1,0 +1,15 @@
+D:\C-Sharp-Personal-Practice\Assignment 2\problem50A\bin\Debug\net6.0\problem50A.exe
+D:\C-Sharp-Personal-Practice\Assignment 2\problem50A\bin\Debug\net6.0\problem50A.deps.json
+D:\C-Sharp-Personal-Practice\Assignment 2\problem50A\bin\Debug\net6.0\problem50A.runtimeconfig.json
+D:\C-Sharp-Personal-Practice\Assignment 2\problem50A\bin\Debug\net6.0\problem50A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem50A\bin\Debug\net6.0\problem50A.pdb
+D:\C-Sharp-Personal-Practice\Assignment 2\problem50A\obj\Debug\net6.0\problem50A.csproj.AssemblyReference.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem50A\obj\Debug\net6.0\problem50A.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp-Personal-Practice\Assignment 2\problem50A\obj\Debug\net6.0\problem50A.AssemblyInfoInputs.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem50A\obj\Debug\net6.0\problem50A.AssemblyInfo.cs
+D:\C-Sharp-Personal-Practice\Assignment 2\problem50A\obj\Debug\net6.0\problem50A.csproj.CoreCompileInputs.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem50A\obj\Debug\net6.0\problem50A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem50A\obj\Debug\net6.0\refint\problem50A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem50A\obj\Debug\net6.0\problem50A.pdb
+D:\C-Sharp-Personal-Practice\Assignment 2\problem50A\obj\Debug\net6.0\problem50A.genruntimeconfig.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem50A\obj\Debug\net6.0\ref\problem50A.dll
