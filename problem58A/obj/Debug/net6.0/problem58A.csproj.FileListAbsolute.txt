@@ -1,0 +1,15 @@
+D:\C-Sharp-Personal-Practice\Assignment 2\problem58A\bin\Debug\net6.0\problem58A.exe
+D:\C-Sharp-Personal-Practice\Assignment 2\problem58A\bin\Debug\net6.0\problem58A.deps.json
+D:\C-Sharp-Personal-Practice\Assignment 2\problem58A\bin\Debug\net6.0\problem58A.runtimeconfig.json
+D:\C-Sharp-Personal-Practice\Assignment 2\problem58A\bin\Debug\net6.0\problem58A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem58A\bin\Debug\net6.0\problem58A.pdb
+D:\C-Sharp-Personal-Practice\Assignment 2\problem58A\obj\Debug\net6.0\problem58A.csproj.AssemblyReference.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem58A\obj\Debug\net6.0\problem58A.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp-Personal-Practice\Assignment 2\problem58A\obj\Debug\net6.0\problem58A.AssemblyInfoInputs.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem58A\obj\Debug\net6.0\problem58A.AssemblyInfo.cs
+D:\C-Sharp-Personal-Practice\Assignment 2\problem58A\obj\Debug\net6.0\problem58A.csproj.CoreCompileInputs.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem58A\obj\Debug\net6.0\problem58A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem58A\obj\Debug\net6.0\refint\problem58A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem58A\obj\Debug\net6.0\problem58A.pdb
+D:\C-Sharp-Personal-Practice\Assignment 2\problem58A\obj\Debug\net6.0\problem58A.genruntimeconfig.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem58A\obj\Debug\net6.0\ref\problem58A.dll
