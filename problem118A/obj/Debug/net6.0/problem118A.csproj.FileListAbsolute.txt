@@ -1,0 +1,15 @@
+D:\C-Sharp-Personal-Practice\Assignment 2\problem118A\bin\Debug\net6.0\problem118A.exe
+D:\C-Sharp-Personal-Practice\Assignment 2\problem118A\bin\Debug\net6.0\problem118A.deps.json
+D:\C-Sharp-Personal-Practice\Assignment 2\problem118A\bin\Debug\net6.0\problem118A.runtimeconfig.json
+D:\C-Sharp-Personal-Practice\Assignment 2\problem118A\bin\Debug\net6.0\problem118A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem118A\bin\Debug\net6.0\problem118A.pdb
+D:\C-Sharp-Personal-Practice\Assignment 2\problem118A\obj\Debug\net6.0\problem118A.csproj.AssemblyReference.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem118A\obj\Debug\net6.0\problem118A.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp-Personal-Practice\Assignment 2\problem118A\obj\Debug\net6.0\problem118A.AssemblyInfoInputs.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem118A\obj\Debug\net6.0\problem118A.AssemblyInfo.cs
+D:\C-Sharp-Personal-Practice\Assignment 2\problem118A\obj\Debug\net6.0\problem118A.csproj.CoreCompileInputs.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem118A\obj\Debug\net6.0\problem118A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem118A\obj\Debug\net6.0\refint\problem118A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem118A\obj\Debug\net6.0\problem118A.pdb
+D:\C-Sharp-Personal-Practice\Assignment 2\problem118A\obj\Debug\net6.0\problem118A.genruntimeconfig.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem118A\obj\Debug\net6.0\ref\problem118A.dll
