@@ -1,0 +1,15 @@
+D:\C-Sharp-Personal-Practice\Assignment 2\problem405A\bin\Debug\net6.0\problem405A.exe
+D:\C-Sharp-Personal-Practice\Assignment 2\problem405A\bin\Debug\net6.0\problem405A.deps.json
+D:\C-Sharp-Personal-Practice\Assignment 2\problem405A\bin\Debug\net6.0\problem405A.runtimeconfig.json
+D:\C-Sharp-Personal-Practice\Assignment 2\problem405A\bin\Debug\net6.0\problem405A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem405A\bin\Debug\net6.0\problem405A.pdb
+D:\C-Sharp-Personal-Practice\Assignment 2\problem405A\obj\Debug\net6.0\problem405A.csproj.AssemblyReference.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem405A\obj\Debug\net6.0\problem405A.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp-Personal-Practice\Assignment 2\problem405A\obj\Debug\net6.0\problem405A.AssemblyInfoInputs.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem405A\obj\Debug\net6.0\problem405A.AssemblyInfo.cs
+D:\C-Sharp-Personal-Practice\Assignment 2\problem405A\obj\Debug\net6.0\problem405A.csproj.CoreCompileInputs.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem405A\obj\Debug\net6.0\problem405A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem405A\obj\Debug\net6.0\refint\problem405A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem405A\obj\Debug\net6.0\problem405A.pdb
+D:\C-Sharp-Personal-Practice\Assignment 2\problem405A\obj\Debug\net6.0\problem405A.genruntimeconfig.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem405A\obj\Debug\net6.0\ref\problem405A.dll
