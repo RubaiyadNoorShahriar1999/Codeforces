@@ -1,0 +1,15 @@
+D:\C-Sharp-Personal-Practice\Assignment 2\problem467A\bin\Debug\net6.0\problem467A.exe
+D:\C-Sharp-Personal-Practice\Assignment 2\problem467A\bin\Debug\net6.0\problem467A.deps.json
+D:\C-Sharp-Personal-Practice\Assignment 2\problem467A\bin\Debug\net6.0\problem467A.runtimeconfig.json
+D:\C-Sharp-Personal-Practice\Assignment 2\problem467A\bin\Debug\net6.0\problem467A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem467A\bin\Debug\net6.0\problem467A.pdb
+D:\C-Sharp-Personal-Practice\Assignment 2\problem467A\obj\Debug\net6.0\problem467A.csproj.AssemblyReference.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem467A\obj\Debug\net6.0\problem467A.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp-Personal-Practice\Assignment 2\problem467A\obj\Debug\net6.0\problem467A.AssemblyInfoInputs.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem467A\obj\Debug\net6.0\problem467A.AssemblyInfo.cs
+D:\C-Sharp-Personal-Practice\Assignment 2\problem467A\obj\Debug\net6.0\problem467A.csproj.CoreCompileInputs.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem467A\obj\Debug\net6.0\problem467A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem467A\obj\Debug\net6.0\refint\problem467A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem467A\obj\Debug\net6.0\problem467A.pdb
+D:\C-Sharp-Personal-Practice\Assignment 2\problem467A\obj\Debug\net6.0\problem467A.genruntimeconfig.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem467A\obj\Debug\net6.0\ref\problem467A.dll
