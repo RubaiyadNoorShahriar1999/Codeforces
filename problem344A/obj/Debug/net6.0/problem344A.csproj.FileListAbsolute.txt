@@ -1,0 +1,15 @@
+D:\C-Sharp-Personal-Practice\Assignment 2\problem344A\bin\Debug\net6.0\problem344A.exe
+D:\C-Sharp-Personal-Practice\Assignment 2\problem344A\bin\Debug\net6.0\problem344A.deps.json
+D:\C-Sharp-Personal-Practice\Assignment 2\problem344A\bin\Debug\net6.0\problem344A.runtimeconfig.json
+D:\C-Sharp-Personal-Practice\Assignment 2\problem344A\bin\Debug\net6.0\problem344A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem344A\bin\Debug\net6.0\problem344A.pdb
+D:\C-Sharp-Personal-Practice\Assignment 2\problem344A\obj\Debug\net6.0\problem344A.csproj.AssemblyReference.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem344A\obj\Debug\net6.0\problem344A.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp-Personal-Practice\Assignment 2\problem344A\obj\Debug\net6.0\problem344A.AssemblyInfoInputs.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem344A\obj\Debug\net6.0\problem344A.AssemblyInfo.cs
+D:\C-Sharp-Personal-Practice\Assignment 2\problem344A\obj\Debug\net6.0\problem344A.csproj.CoreCompileInputs.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem344A\obj\Debug\net6.0\problem344A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem344A\obj\Debug\net6.0\refint\problem344A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem344A\obj\Debug\net6.0\problem344A.pdb
+D:\C-Sharp-Personal-Practice\Assignment 2\problem344A\obj\Debug\net6.0\problem344A.genruntimeconfig.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem344A\obj\Debug\net6.0\ref\problem344A.dll
