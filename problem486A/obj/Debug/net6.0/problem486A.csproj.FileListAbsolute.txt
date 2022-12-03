@@ -1,0 +1,15 @@
+D:\C-Sharp-Personal-Practice\Assignment 2\problem486A\bin\Debug\net6.0\problem486A.exe
+D:\C-Sharp-Personal-Practice\Assignment 2\problem486A\bin\Debug\net6.0\problem486A.deps.json
+D:\C-Sharp-Personal-Practice\Assignment 2\problem486A\bin\Debug\net6.0\problem486A.runtimeconfig.json
+D:\C-Sharp-Personal-Practice\Assignment 2\problem486A\bin\Debug\net6.0\problem486A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem486A\bin\Debug\net6.0\problem486A.pdb
+D:\C-Sharp-Personal-Practice\Assignment 2\problem486A\obj\Debug\net6.0\problem486A.csproj.AssemblyReference.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem486A\obj\Debug\net6.0\problem486A.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp-Personal-Practice\Assignment 2\problem486A\obj\Debug\net6.0\problem486A.AssemblyInfoInputs.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem486A\obj\Debug\net6.0\problem486A.AssemblyInfo.cs
+D:\C-Sharp-Personal-Practice\Assignment 2\problem486A\obj\Debug\net6.0\problem486A.csproj.CoreCompileInputs.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem486A\obj\Debug\net6.0\problem486A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem486A\obj\Debug\net6.0\refint\problem486A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem486A\obj\Debug\net6.0\problem486A.pdb
+D:\C-Sharp-Personal-Practice\Assignment 2\problem486A\obj\Debug\net6.0\problem486A.genruntimeconfig.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem486A\obj\Debug\net6.0\ref\problem486A.dll
