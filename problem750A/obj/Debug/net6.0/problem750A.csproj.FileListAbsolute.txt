@@ -1,0 +1,15 @@
+D:\C-Sharp-Personal-Practice\Assignment 2\problem750A\bin\Debug\net6.0\problem750A.exe
+D:\C-Sharp-Personal-Practice\Assignment 2\problem750A\bin\Debug\net6.0\problem750A.deps.json
+D:\C-Sharp-Personal-Practice\Assignment 2\problem750A\bin\Debug\net6.0\problem750A.runtimeconfig.json
+D:\C-Sharp-Personal-Practice\Assignment 2\problem750A\bin\Debug\net6.0\problem750A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem750A\bin\Debug\net6.0\problem750A.pdb
+D:\C-Sharp-Personal-Practice\Assignment 2\problem750A\obj\Debug\net6.0\problem750A.csproj.AssemblyReference.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem750A\obj\Debug\net6.0\problem750A.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp-Personal-Practice\Assignment 2\problem750A\obj\Debug\net6.0\problem750A.AssemblyInfoInputs.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem750A\obj\Debug\net6.0\problem750A.AssemblyInfo.cs
+D:\C-Sharp-Personal-Practice\Assignment 2\problem750A\obj\Debug\net6.0\problem750A.csproj.CoreCompileInputs.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem750A\obj\Debug\net6.0\problem750A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem750A\obj\Debug\net6.0\refint\problem750A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem750A\obj\Debug\net6.0\problem750A.pdb
+D:\C-Sharp-Personal-Practice\Assignment 2\problem750A\obj\Debug\net6.0\problem750A.genruntimeconfig.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem750A\obj\Debug\net6.0\ref\problem750A.dll
