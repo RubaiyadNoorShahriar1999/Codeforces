@@ -1,0 +1,15 @@
+D:\C-Sharp-Personal-Practice\Assignment 2\problem785A\bin\Debug\net6.0\problem785A.exe
+D:\C-Sharp-Personal-Practice\Assignment 2\problem785A\bin\Debug\net6.0\problem785A.deps.json
+D:\C-Sharp-Personal-Practice\Assignment 2\problem785A\bin\Debug\net6.0\problem785A.runtimeconfig.json
+D:\C-Sharp-Personal-Practice\Assignment 2\problem785A\bin\Debug\net6.0\problem785A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem785A\bin\Debug\net6.0\problem785A.pdb
+D:\C-Sharp-Personal-Practice\Assignment 2\problem785A\obj\Debug\net6.0\problem785A.csproj.AssemblyReference.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem785A\obj\Debug\net6.0\problem785A.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp-Personal-Practice\Assignment 2\problem785A\obj\Debug\net6.0\problem785A.AssemblyInfoInputs.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem785A\obj\Debug\net6.0\problem785A.AssemblyInfo.cs
+D:\C-Sharp-Personal-Practice\Assignment 2\problem785A\obj\Debug\net6.0\problem785A.csproj.CoreCompileInputs.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem785A\obj\Debug\net6.0\problem785A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem785A\obj\Debug\net6.0\refint\problem785A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem785A\obj\Debug\net6.0\problem785A.pdb
+D:\C-Sharp-Personal-Practice\Assignment 2\problem785A\obj\Debug\net6.0\problem785A.genruntimeconfig.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem785A\obj\Debug\net6.0\ref\problem785A.dll
