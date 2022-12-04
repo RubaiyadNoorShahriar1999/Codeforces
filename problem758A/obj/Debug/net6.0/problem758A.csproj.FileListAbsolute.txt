@@ -1,0 +1,15 @@
+D:\C-Sharp-Personal-Practice\Assignment 2\problem758A\bin\Debug\net6.0\problem758A.exe
+D:\C-Sharp-Personal-Practice\Assignment 2\problem758A\bin\Debug\net6.0\problem758A.deps.json
+D:\C-Sharp-Personal-Practice\Assignment 2\problem758A\bin\Debug\net6.0\problem758A.runtimeconfig.json
+D:\C-Sharp-Personal-Practice\Assignment 2\problem758A\bin\Debug\net6.0\problem758A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem758A\bin\Debug\net6.0\problem758A.pdb
+D:\C-Sharp-Personal-Practice\Assignment 2\problem758A\obj\Debug\net6.0\problem758A.csproj.AssemblyReference.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem758A\obj\Debug\net6.0\problem758A.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp-Personal-Practice\Assignment 2\problem758A\obj\Debug\net6.0\problem758A.AssemblyInfoInputs.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem758A\obj\Debug\net6.0\problem758A.AssemblyInfo.cs
+D:\C-Sharp-Personal-Practice\Assignment 2\problem758A\obj\Debug\net6.0\problem758A.csproj.CoreCompileInputs.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem758A\obj\Debug\net6.0\problem758A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem758A\obj\Debug\net6.0\refint\problem758A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem758A\obj\Debug\net6.0\problem758A.pdb
+D:\C-Sharp-Personal-Practice\Assignment 2\problem758A\obj\Debug\net6.0\problem758A.genruntimeconfig.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem758A\obj\Debug\net6.0\ref\problem758A.dll
