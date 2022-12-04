@@ -1,0 +1,15 @@
+D:\C-Sharp-Personal-Practice\Assignment 2\problem513A\bin\Debug\net6.0\problem513A.exe
+D:\C-Sharp-Personal-Practice\Assignment 2\problem513A\bin\Debug\net6.0\problem513A.deps.json
+D:\C-Sharp-Personal-Practice\Assignment 2\problem513A\bin\Debug\net6.0\problem513A.runtimeconfig.json
+D:\C-Sharp-Personal-Practice\Assignment 2\problem513A\bin\Debug\net6.0\problem513A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem513A\bin\Debug\net6.0\problem513A.pdb
+D:\C-Sharp-Personal-Practice\Assignment 2\problem513A\obj\Debug\net6.0\problem513A.csproj.AssemblyReference.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem513A\obj\Debug\net6.0\problem513A.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp-Personal-Practice\Assignment 2\problem513A\obj\Debug\net6.0\problem513A.AssemblyInfoInputs.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem513A\obj\Debug\net6.0\problem513A.AssemblyInfo.cs
+D:\C-Sharp-Personal-Practice\Assignment 2\problem513A\obj\Debug\net6.0\problem513A.csproj.CoreCompileInputs.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem513A\obj\Debug\net6.0\problem513A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem513A\obj\Debug\net6.0\refint\problem513A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem513A\obj\Debug\net6.0\problem513A.pdb
+D:\C-Sharp-Personal-Practice\Assignment 2\problem513A\obj\Debug\net6.0\problem513A.genruntimeconfig.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem513A\obj\Debug\net6.0\ref\problem513A.dll
