@@ -1,0 +1,15 @@
+D:\C-Sharp-Personal-Practice\Assignment 2\problem791A\bin\Debug\net6.0\problem791A.exe
+D:\C-Sharp-Personal-Practice\Assignment 2\problem791A\bin\Debug\net6.0\problem791A.deps.json
+D:\C-Sharp-Personal-Practice\Assignment 2\problem791A\bin\Debug\net6.0\problem791A.runtimeconfig.json
+D:\C-Sharp-Personal-Practice\Assignment 2\problem791A\bin\Debug\net6.0\problem791A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem791A\bin\Debug\net6.0\problem791A.pdb
+D:\C-Sharp-Personal-Practice\Assignment 2\problem791A\obj\Debug\net6.0\problem791A.csproj.AssemblyReference.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem791A\obj\Debug\net6.0\problem791A.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp-Personal-Practice\Assignment 2\problem791A\obj\Debug\net6.0\problem791A.AssemblyInfoInputs.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem791A\obj\Debug\net6.0\problem791A.AssemblyInfo.cs
+D:\C-Sharp-Personal-Practice\Assignment 2\problem791A\obj\Debug\net6.0\problem791A.csproj.CoreCompileInputs.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem791A\obj\Debug\net6.0\problem791A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem791A\obj\Debug\net6.0\refint\problem791A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem791A\obj\Debug\net6.0\problem791A.pdb
+D:\C-Sharp-Personal-Practice\Assignment 2\problem791A\obj\Debug\net6.0\problem791A.genruntimeconfig.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem791A\obj\Debug\net6.0\ref\problem791A.dll
