@@ -1,0 +1,15 @@
+D:\C-Sharp-Personal-Practice\Assignment 2\problem282A\bin\Debug\net6.0\problem282A.exe
+D:\C-Sharp-Personal-Practice\Assignment 2\problem282A\bin\Debug\net6.0\problem282A.deps.json
+D:\C-Sharp-Personal-Practice\Assignment 2\problem282A\bin\Debug\net6.0\problem282A.runtimeconfig.json
+D:\C-Sharp-Personal-Practice\Assignment 2\problem282A\bin\Debug\net6.0\problem282A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem282A\bin\Debug\net6.0\problem282A.pdb
+D:\C-Sharp-Personal-Practice\Assignment 2\problem282A\obj\Debug\net6.0\problem282A.csproj.AssemblyReference.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem282A\obj\Debug\net6.0\problem282A.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp-Personal-Practice\Assignment 2\problem282A\obj\Debug\net6.0\problem282A.AssemblyInfoInputs.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem282A\obj\Debug\net6.0\problem282A.AssemblyInfo.cs
+D:\C-Sharp-Personal-Practice\Assignment 2\problem282A\obj\Debug\net6.0\problem282A.csproj.CoreCompileInputs.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem282A\obj\Debug\net6.0\problem282A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem282A\obj\Debug\net6.0\refint\problem282A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem282A\obj\Debug\net6.0\problem282A.pdb
+D:\C-Sharp-Personal-Practice\Assignment 2\problem282A\obj\Debug\net6.0\problem282A.genruntimeconfig.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem282A\obj\Debug\net6.0\ref\problem282A.dll
