@@ -1,0 +1,15 @@
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1141A\bin\Debug\net6.0\problem1141A.exe
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1141A\bin\Debug\net6.0\problem1141A.deps.json
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1141A\bin\Debug\net6.0\problem1141A.runtimeconfig.json
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1141A\bin\Debug\net6.0\problem1141A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1141A\bin\Debug\net6.0\problem1141A.pdb
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1141A\obj\Debug\net6.0\problem1141A.csproj.AssemblyReference.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1141A\obj\Debug\net6.0\problem1141A.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1141A\obj\Debug\net6.0\problem1141A.AssemblyInfoInputs.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1141A\obj\Debug\net6.0\problem1141A.AssemblyInfo.cs
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1141A\obj\Debug\net6.0\problem1141A.csproj.CoreCompileInputs.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1141A\obj\Debug\net6.0\problem1141A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1141A\obj\Debug\net6.0\refint\problem1141A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1141A\obj\Debug\net6.0\problem1141A.pdb
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1141A\obj\Debug\net6.0\problem1141A.genruntimeconfig.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1141A\obj\Debug\net6.0\ref\problem1141A.dll
