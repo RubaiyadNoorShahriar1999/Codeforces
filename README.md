@@ -1,5 +1,7 @@
-# Codeforces
-Basic Level problems solved with C# 10 .NET 6 (LTS)
+<h1 align= "center">Codeforces</h1>
+
+<h3>Basic Level problems solved with C# 10 .NET 6 (LTS)</h3>
+
 ```
 These codes won't be functional if you use .NET versions less than 6. Top-level statements were eliminated in C# 10. 
 Make sure to check the version of .NET SDK before running the codes
