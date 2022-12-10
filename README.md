@@ -12,3 +12,9 @@ Make sure to check the version of .NET SDK before running the codes</strong>
 <br>
 
 ![cf](https://user-images.githubusercontent.com/77986516/206783309-3b02642d-f72d-4e0d-aeef-9ee282bd8f0e.png)
+
+<h4 align ="right">
+
+All rights reserved by **[Rubaiyad Noor Shahriar](https://flowcv.me/rubaiyad-noor-shahriar-hridoy)**
+</h4>
+</div>
