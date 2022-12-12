@@ -1,0 +1,15 @@
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1409A\bin\Debug\net6.0\problem1409A.exe
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1409A\bin\Debug\net6.0\problem1409A.deps.json
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1409A\bin\Debug\net6.0\problem1409A.runtimeconfig.json
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1409A\bin\Debug\net6.0\problem1409A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1409A\bin\Debug\net6.0\problem1409A.pdb
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1409A\obj\Debug\net6.0\problem1409A.csproj.AssemblyReference.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1409A\obj\Debug\net6.0\problem1409A.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1409A\obj\Debug\net6.0\problem1409A.AssemblyInfoInputs.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1409A\obj\Debug\net6.0\problem1409A.AssemblyInfo.cs
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1409A\obj\Debug\net6.0\problem1409A.csproj.CoreCompileInputs.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1409A\obj\Debug\net6.0\problem1409A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1409A\obj\Debug\net6.0\refint\problem1409A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1409A\obj\Debug\net6.0\problem1409A.pdb
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1409A\obj\Debug\net6.0\problem1409A.genruntimeconfig.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1409A\obj\Debug\net6.0\ref\problem1409A.dll
