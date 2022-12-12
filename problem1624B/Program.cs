@@ -8,7 +8,7 @@ while (t != 0)
     b = Convert.ToInt32(data[1]);
     c = Convert.ToInt32(data[2]);
 
-    if ((2 * b - c) % a == 0 && (2 * b - c) > 0)
+    if ((2 * b - c) % a == 0 && (2 * b - c) > 0) //Took the idea from internet
         m = (2 * b - c) / a;
 
     else if ((a + c) % (2 * b) == 0)
