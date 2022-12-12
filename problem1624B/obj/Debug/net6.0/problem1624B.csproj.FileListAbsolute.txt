@@ -1,0 +1,15 @@
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1624B\bin\Debug\net6.0\problem1624B.exe
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1624B\bin\Debug\net6.0\problem1624B.deps.json
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1624B\bin\Debug\net6.0\problem1624B.runtimeconfig.json
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1624B\bin\Debug\net6.0\problem1624B.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1624B\bin\Debug\net6.0\problem1624B.pdb
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1624B\obj\Debug\net6.0\problem1624B.csproj.AssemblyReference.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1624B\obj\Debug\net6.0\problem1624B.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1624B\obj\Debug\net6.0\problem1624B.AssemblyInfoInputs.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1624B\obj\Debug\net6.0\problem1624B.AssemblyInfo.cs
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1624B\obj\Debug\net6.0\problem1624B.csproj.CoreCompileInputs.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1624B\obj\Debug\net6.0\problem1624B.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1624B\obj\Debug\net6.0\refint\problem1624B.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1624B\obj\Debug\net6.0\problem1624B.pdb
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1624B\obj\Debug\net6.0\problem1624B.genruntimeconfig.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1624B\obj\Debug\net6.0\ref\problem1624B.dll
