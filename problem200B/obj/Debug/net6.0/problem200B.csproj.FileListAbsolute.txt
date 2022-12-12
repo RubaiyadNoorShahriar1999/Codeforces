@@ -1,0 +1,15 @@
+D:\C-Sharp-Personal-Practice\Assignment 2\problem200B\bin\Debug\net6.0\problem200B.exe
+D:\C-Sharp-Personal-Practice\Assignment 2\problem200B\bin\Debug\net6.0\problem200B.deps.json
+D:\C-Sharp-Personal-Practice\Assignment 2\problem200B\bin\Debug\net6.0\problem200B.runtimeconfig.json
+D:\C-Sharp-Personal-Practice\Assignment 2\problem200B\bin\Debug\net6.0\problem200B.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem200B\bin\Debug\net6.0\problem200B.pdb
+D:\C-Sharp-Personal-Practice\Assignment 2\problem200B\obj\Debug\net6.0\problem200B.csproj.AssemblyReference.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem200B\obj\Debug\net6.0\problem200B.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp-Personal-Practice\Assignment 2\problem200B\obj\Debug\net6.0\problem200B.AssemblyInfoInputs.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem200B\obj\Debug\net6.0\problem200B.AssemblyInfo.cs
+D:\C-Sharp-Personal-Practice\Assignment 2\problem200B\obj\Debug\net6.0\problem200B.csproj.CoreCompileInputs.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem200B\obj\Debug\net6.0\problem200B.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem200B\obj\Debug\net6.0\refint\problem200B.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem200B\obj\Debug\net6.0\problem200B.pdb
+D:\C-Sharp-Personal-Practice\Assignment 2\problem200B\obj\Debug\net6.0\problem200B.genruntimeconfig.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem200B\obj\Debug\net6.0\ref\problem200B.dll
