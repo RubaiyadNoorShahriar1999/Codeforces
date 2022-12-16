@@ -1,0 +1,15 @@
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1619A\bin\Debug\net6.0\problem1619A.exe
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1619A\bin\Debug\net6.0\problem1619A.deps.json
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1619A\bin\Debug\net6.0\problem1619A.runtimeconfig.json
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1619A\bin\Debug\net6.0\problem1619A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1619A\bin\Debug\net6.0\problem1619A.pdb
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1619A\obj\Debug\net6.0\problem1619A.csproj.AssemblyReference.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1619A\obj\Debug\net6.0\problem1619A.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1619A\obj\Debug\net6.0\problem1619A.AssemblyInfoInputs.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1619A\obj\Debug\net6.0\problem1619A.AssemblyInfo.cs
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1619A\obj\Debug\net6.0\problem1619A.csproj.CoreCompileInputs.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1619A\obj\Debug\net6.0\problem1619A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1619A\obj\Debug\net6.0\refint\problem1619A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1619A\obj\Debug\net6.0\problem1619A.pdb
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1619A\obj\Debug\net6.0\problem1619A.genruntimeconfig.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1619A\obj\Debug\net6.0\ref\problem1619A.dll
