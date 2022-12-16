@@ -1,0 +1,15 @@
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1367A\bin\Debug\net6.0\problem1367A.exe
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1367A\bin\Debug\net6.0\problem1367A.deps.json
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1367A\bin\Debug\net6.0\problem1367A.runtimeconfig.json
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1367A\bin\Debug\net6.0\problem1367A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1367A\bin\Debug\net6.0\problem1367A.pdb
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1367A\obj\Debug\net6.0\problem1367A.csproj.AssemblyReference.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1367A\obj\Debug\net6.0\problem1367A.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1367A\obj\Debug\net6.0\problem1367A.AssemblyInfoInputs.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1367A\obj\Debug\net6.0\problem1367A.AssemblyInfo.cs
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1367A\obj\Debug\net6.0\problem1367A.csproj.CoreCompileInputs.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1367A\obj\Debug\net6.0\problem1367A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1367A\obj\Debug\net6.0\refint\problem1367A.dll
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1367A\obj\Debug\net6.0\problem1367A.pdb
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1367A\obj\Debug\net6.0\problem1367A.genruntimeconfig.cache
+D:\C-Sharp-Personal-Practice\Assignment 2\problem1367A\obj\Debug\net6.0\ref\problem1367A.dll
